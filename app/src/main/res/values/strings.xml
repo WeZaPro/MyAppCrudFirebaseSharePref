@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAppCrudFirebase</string>
+    <string name="ID">Matricula</string>
+    <string name="Name">Nombre</string>
+    <string name="Surname">Apellidos</string>
+    <string name="Register">Registro</string>
+    <string name="Save">Save</string>
+    <string name="UPD">UPD</string>
+    <string name="DEL">DEL</string>
+</resources>
